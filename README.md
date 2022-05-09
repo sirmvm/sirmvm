@@ -11,13 +11,11 @@ I consider myself a curious person, as I love inquiring in many fields of human 
 
 ### 👨🏾‍🎓 Education
 
-Full Stack Python Developer trainee bootcamp.
-Edutecno
-Dec 2021 - May 2022
+Full Stack Python Developer trainee Bootcamp - Edutecno
+(Dec 2021 - May 2022)
 
-Business Administrator degree
-Universidad Catolica del Norte
-2011 - 2014
+Business Administrator Degree - Universidad Catolica del Norte
+(2011 - 2014)
 
 ### Laboral experience
 
