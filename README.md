@@ -9,7 +9,7 @@ I'm Matias Valladares, a Business Administrator from Chile who changed his caree
 I have been working for 10 years in different Banks or financial markets in Chile. I know the importance of teamwork, listen to others, having a respectful conversation and being empathic.
 I consider myself a curious person, as I love inquiring in many fields of human knowledge. This curiosity led me to software development and this is the path I'm on right now. I want to take all my laboral experience and apply it in the software development world.
 
-### 👨🏾‍🎓 Education
+### 👨 Education
 
 Full Stack Python Developer trainee Bootcamp - Edutecno
 (Dec 2021 - May 2022)
@@ -17,7 +17,7 @@ Full Stack Python Developer trainee Bootcamp - Edutecno
 Business Administrator Degree - Universidad Catolica del Norte
 (2011 - 2014)
 
-### Laboral experience
+### :man_office_worker: Laboral experience
 
 Executive Banking
 Chile Bank (Banco de Chile)
@@ -33,7 +33,7 @@ Executive Banking
 Bci Bank
 Dic 2014 – Sept 2015
 
-### Skills
+### :fire: Skills
 
     Python3 - intermediate
     Django - beginner
