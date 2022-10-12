@@ -35,7 +35,7 @@ Dic 2014 – Sept 2015
 
 ### :fire: Skills
 
-    Python3 - intermediate
+    Python3 - intermediate 
     Django - beginner
     PostgreSQL - intermediate
     MySQL - beginner
