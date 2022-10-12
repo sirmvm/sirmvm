@@ -52,6 +52,8 @@ Dic 2014 – Sept 2015
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirmvm)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contact me
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirmvm)](https://github.com/anuraghazra/github-readme-stats)
+
 
 My email: matias.valladares@gmail.com
 
