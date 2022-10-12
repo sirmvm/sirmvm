@@ -48,6 +48,8 @@ Dic 2014 – Sept 2015
     English language: intermediate (B1-B2)
     Spanish language: native
     Portuguese language: native
+   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirmvm)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contact me
 
